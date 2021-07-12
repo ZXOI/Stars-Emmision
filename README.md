@@ -1,2 +1,1 @@
-# About me
-FOrked from guthub.com/wangyasai.
+Forked from guthub.com/wangyasai.
